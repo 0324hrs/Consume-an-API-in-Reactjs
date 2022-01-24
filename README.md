@@ -1,1 +1,1 @@
-A reactjs mealdb API UI 
+A reactjs mealdb API UI with navigation bars added functionalities
