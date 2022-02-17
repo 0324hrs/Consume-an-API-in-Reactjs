@@ -2,11 +2,12 @@ import React from "react";
 
 function Footer(){
 
-    return <div style={{backgroundColor:'blue'}}>
-        <h3 style={{color:'white'}}>Created by Maina</h3>
-        <a style={{padding:'10px',color:'white'}}>@Telegram</a>
-        <a style={{padding:'10px',color:'white'}}>@Twitter</a>
-        <a style={{padding:'10px',color:'white'}}>@whatsapp</a>
+    return <div style={{backgroundColor:'#CCCCC3'}}>
+        <h3 style={{color:'black'}}>You can reach us on:</h3>
+        <a style={{padding:'10px',color:'black'}}>@Telegram</a>
+        <a style={{padding:'10px',color:'black'}}>@Twitter</a>
+        <a style={{padding:'10px',color:'black'}}>@whatsapp</a>
+        <h3>Enjoy your meals</h3>
     </div>
 }
 

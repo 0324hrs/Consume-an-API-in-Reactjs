@@ -12,8 +12,8 @@ function OrderScreen() {
     function validate(event){
         event.preventDefault();
 
-        if(name=='maina',phone=='0701539466',registration=='SCT-254-004/2020',
-        food=='chapo beans',room=='block C room 85')
+        if(name==='maina',phone==='0701539466',registration==='SCT-254-004/2020',
+        food==='chapo beans',room==='block C room 85')
         {
             swal('congratulations','food ordered!','success')
         }
