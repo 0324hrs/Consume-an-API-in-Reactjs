@@ -11,11 +11,13 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar />
+      <hr/>
       <Routes>
       <Route path='/' element={<HomeScreen/>} exact/>
       <Route path='/orders' element={<OrderScreen/>} />
       <Route path='/contacts' element={<ContactUs/>} />
       </Routes>
+      <hr/>
       <Footer />
     </BrowserRouter>
   );

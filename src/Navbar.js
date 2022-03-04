@@ -6,7 +6,7 @@ import {MdShoppingCart} from 'react-icons/md'
 
 
 function Navbar(){
-
+     
     return <div style={{backgroundColor:'#CCCCC3'}}>
         <h1 style={{ color:'black' }}> El Classico Sea Dishes </h1>
         
